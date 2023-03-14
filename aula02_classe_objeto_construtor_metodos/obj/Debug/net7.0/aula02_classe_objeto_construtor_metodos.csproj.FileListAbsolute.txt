@@ -1,0 +1,15 @@
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.exe
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.deps.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.runtimeconfig.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\aula02_classe_objeto_construtor_metodos.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.csproj.AssemblyReference.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.AssemblyInfoInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.AssemblyInfo.cs
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.csproj.CoreCompileInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\refint\aula02_classe_objeto_construtor_metodos.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\aula02_classe_objeto_construtor_metodos.genruntimeconfig.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\ref\aula02_classe_objeto_construtor_metodos.dll

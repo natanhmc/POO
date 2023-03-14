@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natan\\Desktop\\ADS-3ºsemeste\\POO\\POO\\aula01_hello_world\\aula01_hello_world.csproj",
-      "projectName": "aula01_hello_world",
-      "projectPath": "C:\\Users\\Natan\\Desktop\\ADS-3ºsemeste\\POO\\POO\\aula01_hello_world\\aula01_hello_world.csproj",
+      "projectUniqueName": "C:\\Users\\Natan\\Desktop\\ADS-3ºsemeste\\POO\\POO\\aula02_classe_objeto_construtor_metodos\\aula02_classe_objeto_construtor_metodos.csproj",
+      "projectName": "aula02_classe_objeto_construtor_metodos",
+      "projectPath": "C:\\Users\\Natan\\Desktop\\ADS-3ºsemeste\\POO\\POO\\aula02_classe_objeto_construtor_metodos\\aula02_classe_objeto_construtor_metodos.csproj",
       "packagesPath": "C:\\Users\\Natan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Natan\\Desktop\\ADS-3ºsemeste\\POO\\POO\\aula01_hello_world\\obj\\",
+      "outputPath": "C:\\Users\\Natan\\Desktop\\ADS-3ºsemeste\\POO\\POO\\aula02_classe_objeto_construtor_metodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Natan\\AppData\\Roaming\\NuGet\\NuGet.Config"

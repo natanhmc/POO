@@ -1,0 +1,15 @@
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\bin\Debug\net7.0\aula02_exercicios.exe
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\bin\Debug\net7.0\aula02_exercicios.deps.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\bin\Debug\net7.0\aula02_exercicios.runtimeconfig.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\bin\Debug\net7.0\aula02_exercicios.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\bin\Debug\net7.0\aula02_exercicios.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.csproj.AssemblyReference.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.AssemblyInfoInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.AssemblyInfo.cs
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\refint\aula02_exercicios.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\aula02_exercicios.genruntimeconfig.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula02_exercicios\obj\Debug\net7.0\ref\aula02_exercicios.dll
