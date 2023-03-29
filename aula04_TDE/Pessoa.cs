@@ -1,7 +1,5 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace aula04_TDE
 {
@@ -9,13 +7,16 @@ namespace aula04_TDE
     {
         private static int proximoId = 0;
         public int Id { get;}
+        public Guid Codigo { get; set; }
         public string Nome{get; set;}
         public string Telefone {get; set;}
 
         public Pessoa( string nome, string telefone){
-            Id = System.Threading.Interlocked.Increment(ref proximoId);
+            Id = Interlocked.Increment(ref proximoId);
             this.Nome = nome;
             this.Telefone = telefone;
+            Codigo = System.Guid.NewGuid();
         }
+         
     }
 }

@@ -34,7 +34,8 @@ using System;
             break;
             case 4:
                 var list =  repository.GetAll();
-                list.ForEach(x => Console.WriteLine($"Id: {x.Id}, Nome: {x.Nome}, Telefone: {x.Telefone}"));
+                list.ForEach(x => Console.WriteLine($"Id: {x.Id}, Nome: {x.Nome}, Telefone: {x.Telefone}, Codigo: {x.Codigo}"));
+
             break;
             case 5:
                 op = 0;
