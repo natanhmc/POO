@@ -1,0 +1,15 @@
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.csproj.AssemblyReference.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.AssemblyInfoInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.AssemblyInfo.cs
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.csproj.CoreCompileInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\bin\Debug\net7.0\aula04_TDE.exe
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\bin\Debug\net7.0\aula04_TDE.deps.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\bin\Debug\net7.0\aula04_TDE.runtimeconfig.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\bin\Debug\net7.0\aula04_TDE.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\bin\Debug\net7.0\aula04_TDE.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\refint\aula04_TDE.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\aula04_TDE.genruntimeconfig.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula04_TDE\obj\Debug\net7.0\ref\aula04_TDE.dll

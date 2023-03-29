@@ -1,5 +1,5 @@
 ﻿using aula02_exercicios;
-
+using System;
 int o = 5;
 while (o > 0){
     Mostrar("informe o numero no exercicio: 1, 2, 3 ou 0 para sair.");
@@ -79,3 +79,4 @@ while (o > 0){
 void Mostrar(string msg){
     Console.WriteLine(msg);
 }
+
