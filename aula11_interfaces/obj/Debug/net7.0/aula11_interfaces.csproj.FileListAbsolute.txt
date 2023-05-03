@@ -1,0 +1,15 @@
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.csproj.AssemblyReference.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.AssemblyInfoInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.AssemblyInfo.cs
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\bin\Debug\net7.0\aula11_interfaces.exe
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\bin\Debug\net7.0\aula11_interfaces.deps.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\bin\Debug\net7.0\aula11_interfaces.runtimeconfig.json
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\bin\Debug\net7.0\aula11_interfaces.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\bin\Debug\net7.0\aula11_interfaces.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\refint\aula11_interfaces.dll
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.pdb
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\aula11_interfaces.genruntimeconfig.cache
+C:\Users\Natan\Desktop\ADS-3ºsemeste\POO\POO\aula11_interfaces\obj\Debug\net7.0\ref\aula11_interfaces.dll
