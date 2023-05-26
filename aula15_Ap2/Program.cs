@@ -14,6 +14,8 @@ public class Program
 
         Gerente gerente = new Gerente();
 
+        int zx = 0;
+
         while (true)
         {
             Mostrar("Digite a senha:");
@@ -76,7 +78,21 @@ public class Program
                                         // |                           Rua: { clien.Enderecos.Rua} | Bairro: { clien.Enderecos.Bairro};
                                         break;
                                     case 4:
-
+                                        Mostrar("informe o id que deseja modificar:");
+                                        var change = cliRepo.GetById(LerNumero());
+                                        Mostrar("informe o nome:");
+                                        change.Nome = LerString();
+                                        Mostrar($"O saldo anterior é de {change.Saldo}");
+                                        Mostrar("informe o saldo que deseja informar para modificar:");
+                                        change.Saldo = LerDouble();
+                                        var ende = endeRepo.GetById(change.Enderecos.Id);    // não está dando certo  aahhhhhhhhh
+                                        Mostrar($"Este é o endereço do cliente: Rua : {ende.Rua}, Bairro : {ende.Bairro}");
+                                        Mostrar("Qual a rua para modificar: ");
+                                        ende.Rua = LerString();
+                                        Mostrar("Qual a bairro para modificar: ");
+                                        ende.Bairro = LerString();
+                                        endeRepo.Update(ende);
+                                        cliRepo.Update(change);
                                         break;
                                     case 5:
                                         Mostrar("informe o id");
@@ -205,6 +221,7 @@ public class Program
                         case 4:
                             Mostrar("Obrigado por fazer negócios com a gente!!");
                             oper = 0;
+
                             break;
                     }
 
@@ -213,7 +230,15 @@ public class Program
             }
             else
             {
+                zx++;
                 Mostrar("Senha incorreta! Tente novamente.");
+                Mostrar($"Limite de tentativas: {3 - zx}");
+
+                if (zx == 3)
+                {
+                    break;
+                }
+
             }
         }
 
