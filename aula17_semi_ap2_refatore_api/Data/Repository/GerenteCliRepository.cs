@@ -34,6 +34,7 @@ namespace aula15_Ap2.Data.Repository
         public Cliente GetById(int entityId)
         {
             return context.Cliente.Include(x=>x.Enderecos).SingleOrDefault(x=>x.Id == entityId);
+    
         }
 
         public IList<Cliente> GetAll()

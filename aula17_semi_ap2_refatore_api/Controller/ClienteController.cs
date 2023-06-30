@@ -17,7 +17,6 @@ namespace aula17_semi_ap2_refatore_api.Controller
         public ClienteController()
         {
             _repository = new GerenteCliRepository();
-
         }
         [HttpGet]
         public IEnumerable<Cliente> Get(){
